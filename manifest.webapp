@@ -1,0 +1,22 @@
+{
+    "name": "Flickr",
+    "launch_path": "/flickr/index.html",
+    "description": "Upload, access, organize, edit, and share your photos from any device, from anywhere in the world.",
+    "icons": {
+        "60": "/flickr/img/icon-60.png",
+        "128": "/flickr/img/icon-128.png"
+    },
+    "developer": {
+        "name": "Yahoo",
+        "url": "http://yahoo.com"
+    },
+    "default_locale": "en",
+    "permissions": {
+        "browser": {
+            "description": "Allows us to have additional control over how our app is rendered."
+        },
+        "geolocation": {
+            "description": "Position the user without prompting."
+        }
+    }
+}
